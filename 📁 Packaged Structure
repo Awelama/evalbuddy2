@@ -1,0 +1,12 @@
+evalbuddy/
+├── streamlit_app.py
+├── helpers/
+│   ├── __init__.py
+│   ├── logic_model.py
+│   ├── chart.py
+│   ├── export.py
+│   ├── pdf_utils.py
+├── static/
+│   └── logo.png (placeholder, use your own or I’ll suggest a link)
+├── styles/
+│   └── theme.css
